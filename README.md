@@ -1,4 +1,4 @@
-# workoutbuddy
+# Workout Buddy
 A fitness tracking app built with React Native.
 
 <h2> Screenshots 
